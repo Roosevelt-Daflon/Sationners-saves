@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="3c27b8e3-e35d-4be0-ace4-40dbdfd9c279">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.5175.23517</GameVersion>
+  <DateTime>133695432602374217</DateTime>
+  <DaysPast>74</DaysPast>
+  <WorldName>Mars</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Vinitri</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>10</NumberOfRooms>
+  <NumberOfPipeNetworks>22</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>9</NumberOfCableNetworks>
+  <NumberOfThings>1161</NumberOfThings>
+  <NumberOfAtmospheres>678</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
